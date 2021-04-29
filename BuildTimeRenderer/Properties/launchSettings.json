@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PrerenderTrial.BuildTimeRenderer": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Project\\Blazor\\Trials\\PrerenderTrial"
+    }
+  }
+}
